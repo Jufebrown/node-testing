@@ -1,7 +1,7 @@
 {
-  "name": "node-diceroll-testing-joeshep",
+  "name": "node-diceroll-testing",
   "version": "1.0.0",
-  "description": "",
+  "description": "practice modularizing a node cli app",
   "main": "index.js",
   "bin": {
     "diceroll": "bin/diceroll"
