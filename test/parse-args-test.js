@@ -9,6 +9,6 @@ describe(`parse-args`, () => {
   })
 
   it(`should return 2 properties: count and sides`, () => {
-    deepEqual({count, sides}, parseArgs())
+    deepEqual({count: '', sides: ''}, parseArgs())
   })
 })
