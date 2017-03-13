@@ -1,3 +1,5 @@
+`use strict`
+
 const {assert: {isFunction, oneOf, equal}} = require(`chai`)
 
 let {randomInt} = require(`../lib/math`)
